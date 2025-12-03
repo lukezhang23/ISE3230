@@ -1,4 +1,4 @@
-# After Optimization Actions
+# After Optimization Chart Generation
 
 ## Table of Contents
 
