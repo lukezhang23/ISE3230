@@ -7,4 +7,5 @@
   - #### start_time_weights.csv: Weights for generating start time
 - #### generate_chart.py: Creates initial_schedule_chart.pdf off of data.csv
 - #### generate_data.py: Creates random data in data.csv for the names listed in seed/names.csv
+- #### initial_schedule_chart.pdf: Students scheduling preferences without optimal schedule overlayed
 - #### initalize_project.py: Runs all the initialization scripts in the proper order.
